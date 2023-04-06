@@ -78,7 +78,6 @@ endmodule
 
 ## Logic symbol & Truthtable
 ![LG](https://user-images.githubusercontent.com/119559695/230282706-8b18568b-8d0f-472f-bf15-68ccee8699ef.png)
-![TT](https://user-images.githubusercontent.com/119559695/230282740-b610ec28-4474-45d0-b604-80a47a80e1a2.png)
 
 ## RTL realization
 ## OUTPUT
