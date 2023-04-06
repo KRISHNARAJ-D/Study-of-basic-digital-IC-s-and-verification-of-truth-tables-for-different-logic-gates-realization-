@@ -83,6 +83,8 @@ endmodule
 ## RTL realization
 ## OUTPUT
 ![DIA](https://user-images.githubusercontent.com/119559695/230283172-90a5405a-728f-4acf-8dba-e05f6efc261c.png)
+![WAVE](https://user-images.githubusercontent.com/119559695/230288603-b9c504c3-5588-4d18-ac18-df54402fc94a.png)
+
 
 
 ## Result:
